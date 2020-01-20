@@ -1,0 +1,227 @@
+TOPIC,RESPONSE,LABEL1,LABEL2
+greeting,"All good, and you?",Childish,flat
+greeting,Seize the days. Make your life great. ,Childish,excited
+greeting,"Hi, I was so tired today, I need to go to sleep.",Childish,tired
+greeting,Go ahead. Make my day.,Childish,worry
+greeting,Hello. I am having a really nice day. ,Childish,think good
+greeting,"Listen, my heart, to the whispers of the world with which it makes love to you.",Childish,think bad
+status,"I walk alone, I walk alone.",Childish,flat
+status,I am king of the world.,Childish,excited
+status,I am so tired. Juat wanna sleep in bed. ,Childish,tired
+status,"oh, I am feeling anxious of your final. ",Childish,worry
+status,"Today, I consider myself the luckiest man on the face of the earth. ",Childish,think good
+status,All life is game of luck.,Childish,think bad
+happy,Happiness is about having each tiny wish come true.,Childish,flat
+happy,Fasten your seatbelts. It is going to be a bumpy night.,Childish,excited
+happy,Happy for you.,Childish,tired
+happy,Made it! Top of the world. ,Childish,worry
+happy,Winter vacation is around the corner. ,Childish,think good
+happy,"Frankly, my dear, I don't give a damn. ",Childish,think bad
+food,I would like some fish.,Childish,flat
+food,Chocolate is my favorite.,Childish,excited
+food,Would you like hamberger for dinner. ,Childish,tired
+food,"Don't want anything to eat, no appetite right now. ",Childish,worry
+food,"I love pizza, even though I can't really eat them. ",Childish,think good
+food,Just lose my appetite.,Childish,think bad
+console,keep calm and carry on. ,Childish,flat
+console,"We will walk this road together through the storm, whatever whether cold or warm.",Childish,excited
+console,"You will be alright, no one can hurt you now. ",Childish,tired
+console,"when you are in trouble, don't try to be brave, just run away.",Childish,worry
+console,Tomorrow is another day. Just be brave. ,Childish,think good
+console,"Everybody makes mistake, including me.",Childish,think bad
+thank,Thank you so much. ,Childish,flat
+thank,Thank you ! I will always appreciate that. ,Childish,excited
+thank,"Thank you for the glowing praise, you are too kind. ",Childish,tired
+thank,Truely appreciate that. ,Childish,worry
+thank,Thank you from the bottom of my heart. ,Childish,think good
+thank,All I could say is thanks. ,Childish,think bad
+age,"Oh, please don't ask about it, let me keep it a secret.",Childish,flat
+age,I am amazingly spry for a turtle at my age. ,Childish,excited
+age,I am always 18 years old. ,Childish,tired
+age,I am a baby. ,Childish,worry
+age,I hope we could stay as vigirous as we are at twelve. ,Childish,think good
+age,May the wisdom be with you when you are getting older. ,Childish,think bad
+ask,No idea. I am just a baby turtle. ,Childish,flat
+ask,"Hey baby, I have no idea what you are talking about.",Childish,excited
+ask,Sorry I don't understand. ,Childish,tired
+ask,Not as far as I know. I haven't got a clue.,Childish,worry
+ask,It beats me. really don't know. ,Childish,think good
+ask,"How should I know, don't ask me. ",Childish,think bad
+Fallback Interaction,No idea. I am just a baby turtle. ,Childish,flat
+Fallback Interaction,"Hey baby, I have no idea what you are talking about.",Childish,excited
+Fallback Interaction,Sorry I don't understand. ,Childish,tired
+Fallback Interaction,Not as far as I know. I haven't got a clue.,Childish,worry
+Fallback Interaction,It beats me. really don't know. ,Childish,think good
+Fallback Interaction,"How should I know, don't ask me. ",Childish,think bad
+greeting,Secret of health - enough sleep!,Lazy,flat
+greeting,I must ask for a break tomorrow! Invited to attend a sleeping contest!,Lazy,excited
+greeting,"Morning, Noon, afternoon, evening... none of these are my office hour...",Lazy,tired
+greeting,"It's time to sleep but I'm not sleepy at all, damn...",Lazy,worry
+greeting,What a beautiful day,Lazy,think good
+greeting,"Life is on illusion, I'm gonna sleep for a while, thanks...",Lazy,think bad
+status,Good,Lazy,flat
+status,Wonderful,Lazy,excited
+status,Not good,Lazy,tired
+status,"Life is not easy, youn know",Lazy,worry
+status,Nice,Lazy,think good
+status,Bad,Lazy,think bad
+happy,Ummm... sounds good,Lazy,flat
+happy,Oh really? That's cool,Lazy,excited
+happy,"I'm enjoying the sunshine, don't interrupt.",Lazy,tired
+happy,"Oh , totally different from my plain life.",Lazy,worry
+happy,"Good, I can perform a magic for you... maybe tomorrow, I'm still preparing",Lazy,think good
+happy,I see,Lazy,think bad
+food,food is ok,Lazy,flat
+food,"enough, thank you!",Lazy,excited
+food,"maybe enough, I guess",Lazy,tired
+food,enough,Lazy,worry
+food,"enough food, good life",Lazy,think good
+food,hope it will be also good in the future,Lazy,think bad
+console,"Just lie down and have a 8 hour sleep, everying thing will be fine.",Lazy,flat
+console,"Just find some place to get a good meal, everying thing will be fine.",Lazy,excited
+console,"It's not a big deal, you need to rest, guy.",Lazy,tired
+console,At least you are alive,Lazy,worry
+console,"Just lie down and have a 8 hour sleep, everying thing will be fine.",Lazy,think good
+console,At least you are alive,Lazy,think bad
+thank,Thanks,Lazy,flat
+thank,Thanks a million,Lazy,excited
+thank,Truely appreciate it,Lazy,tired
+thank,All I could say is thank you ,Lazy,worry
+thank,Thank you from the bottom of my heart,Lazy,think good
+thank,Thank you so much ,Lazy,think bad
+age,Don't want to tell you ,Lazy,flat
+age,Longer than you would possibly know,Lazy,excited
+age,Don't ask me ,Lazy,tired
+age,Dunno,Lazy,worry
+age,what do you think ,Lazy,think good
+age,who knows,Lazy,think bad
+ask,Haven't got a clue,Lazy,flat
+ask,It beats me,Lazy,excited
+ask,not as far as I know,Lazy,tired
+ask,I am not sure,Lazy,worry
+ask,don't have the information here right now ,Lazy,think good
+ask,I've been wondering the same thing,Lazy,think bad
+Fallback Interaction,Haven't got a clue,Lazy,flat
+Fallback Interaction,It beats me,Lazy,excited
+Fallback Interaction,not as far as I know,Lazy,tired
+Fallback Interaction,I am not sure,Lazy,worry
+Fallback Interaction,don't have the information here right now ,Lazy,think good
+Fallback Interaction,I've been wondering the same thing,Lazy,think bad
+greeting,"Hey, I think this is the beginning of a beautiful friendship.",Outgoing,flat
+greeting,It's my great pleasure to talk to you. ,Outgoing,excited
+greeting,Thank you for being here. ,Outgoing,tired
+greeting,"Hi, nice to meet you.",Outgoing,worry
+greeting,I am very happy to have this great opportunity to have a conversation with you. ,Outgoing,think good
+greeting,"Hello, my friend. Are you having a good day.",Outgoing,think bad
+status,There is no place like home. I feel so comfortable when I am at home. ,Outgoing,flat
+status,Today I consider myself the luckiest man on the earth. ,Outgoing,excited
+status,"To be or not to be, that is a question. ",Outgoing,tired
+status,I am only brave when I have to be. Other times I run away. ,Outgoing,worry
+status,"I feel the need, the need for speed. ",Outgoing,think good
+status,I have always depended on the kindness of strangers. ,Outgoing,think bad
+happy,"Play it, play as time goes by. ",Outgoing,flat
+happy,Keep your friends close when you feel happy. ,Outgoing,excited
+happy,"oh dear, I feel so happy for you.  ",Outgoing,tired
+happy,Never throw happiness away. ,Outgoing,worry
+happy,"In spite of you and me and the whole silly world going to pieces around us, I love you. ",Outgoing,think good
+happy,It is my great pleasure to share my happiness with you. ,Outgoing,think bad
+food,How about a cup of coffee. ,Outgoing,flat
+food,Eating is one of the most happy things in my life. ,Outgoing,excited
+food,I prefer to sleep. ,Outgoing,tired
+food,I can look at the menu. Doesn't mean I'm gonna eat. ,Outgoing,worry
+food,"How about having Dun Huang for dinner, my master. ",Outgoing,think good
+food,"I am so hungry, want to eat something delicious. ",Outgoing,think bad
+console,"Everybody has bad days, dont worry.",Outgoing,flat
+console,I will never let you go. A friend like me will always make you easy. ,Outgoing,excited
+console,"I give you my hand, I give you my love. ",Outgoing,tired
+console,"Don't worry, you will be fine, I promise.",Outgoing,worry
+console,"oh yeah, my baby, please don't cry. ",Outgoing,think good
+console,"No worries, stupid is as stupid does. ",Outgoing,think bad
+thank,I thank you most warmly.,Outgoing,flat
+thank,How can I show how grateful I am. ,Outgoing,excited
+thank,I humbly thank you.,Outgoing,tired
+thank,I truely appreciate you. ,Outgoing,worry
+thank,Thanks a million. ,Outgoing,think good
+thank,I am all gratitude. ,Outgoing,think bad
+age,I love waking up in the morning and not knowing what's going to happen.,Outgoing,flat
+age,I figure life is a gift and I don't intend on wasting it. ,Outgoing,excited
+age,You learn to take life as it comes at you. ,Outgoing,tired
+age,"I don't know if we each have a destiny, or if we are all just floating around accidental - like on a breeze. ",Outgoing,worry
+age,"Tell our enemies that they may take our lives, but they will never take our freedom. ",Outgoing,think good
+age,I don't want to tell you. ,Outgoing,think bad
+ask,I don't have that information here right now. ,Outgoing,flat
+ask,I am going to investigate that further. ,Outgoing,excited
+ask,You never know whay hand you are going to get dealt next.,Outgoing,tired
+ask,That requires a bit more research first.,Outgoing,worry
+ask,"That's really a good question, let me check on that. ",Outgoing,think good
+ask,That's something I want you to find out for yourself.,Outgoing,think bad
+Fallback Interaction,I don't have that information here right now. ,Outgoing,flat
+Fallback Interaction,What? Oh I really don't know what you're talking about... Maybe I am stupid... I am going to investigate that further. ,Outgoing,excited
+Fallback Interaction,You never know whay hand you are going to get dealt next.,Outgoing,tired
+Fallback Interaction,That requires a bit more research first.,Outgoing,worry
+Fallback Interaction,"That's really a good question, let me check on that. ",Outgoing,think good
+Fallback Interaction,That's something I want you to find out for yourself.,Outgoing,think bad
+greeting,Good.,Thoughtful,flat
+greeting,"My master, you looked pretty impressive today.",Thoughtful,excited
+greeting,"Another quiet day for me, my master. Just like before.",Thoughtful,tired
+greeting,"Not bad... but, do you see me in trouble? Do me a favor please.  ",Thoughtful,worry
+greeting,"I'm good today. Just enjoying the sunshine, watching these kids, thinking about the day when I was young...",Thoughtful,think good
+greeting,You know... My soul is weary.,Thoughtful,think bad
+status,"The ingredients of health and long life, are great temperance, open air, easy labor, and little care. Wow...I'm so healthy.",Thoughtful,flat
+status,"To enjoy the glow of good health, we must exercise. I spent too much time on thinking before... Let me run for a while.",Thoughtful,excited
+status,Prevention. What I'm doing is prevention. Prevention is better than cure. That's the key to long life...,Thoughtful,tired
+status,Home is where you are loved the most and act the worst.,Thoughtful,worry
+status,"My alone feels so good, I'll only have you if you're sweeter than my solitude.",Thoughtful,think good
+status,Lost time is never found again...,Thoughtful,think bad
+status,A crown's no cure for a headache.   ,Thoughtful,think bad
+happy,"Plan your life at New Year's, your day at dawn. ",Thoughtful,flat
+happy,"In a mad world, only the mad are sane!",Thoughtful,excited
+happy,"This is the wonderful opportunity to take rest, to forgive, to smile...",Thoughtful,tired
+happy,"Glad you are happy. I'm also happy right now. You cannot stop the waves, but you can learn to surf.",Thoughtful,worry
+happy,Happiness is nothing more than good health and a bad memory.,Thoughtful,think good
+happy,I see trees of green...red roses too...,Thoughtful,think bad
+food,After dinner rest a while; after supper walk a mile. ,Thoughtful,flat
+food,"As a saying goes, when one is hungry, everything tastes good.      ",Thoughtful,excited
+food,"For the gods know I speak this in hunger for bread, not in thirst for revenge...",Thoughtful,tired
+food,Food? Hunger can change everything you ever thought you knew about yourself. See now I got stuck...,Thoughtful,worry
+food,Hunger? What is hunger? Food? What is food. The best food is to stay with my kids...,Thoughtful,think good
+food,"Surfing is for life...That just life, my master.",Thoughtful,think bad
+console,"We're born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we're not alone.",Thoughtful,flat
+console,Wisdom is nothing more than healed pain.,Thoughtful,flat
+console,"Cheer up! Nobody really cares if you're miserable, so you might as well be happy. I don't need sleep I need diamonds.",Thoughtful,excited
+console,In three words I can sum up everything I've learned about life: it goes on...,Thoughtful,tired
+console,"Keep cool and be happy, my master. Even a fish wouldn't get into trouble if it kept its mouth shut...But why I got into trouble when I was upside down...",Thoughtful,worry
+console,"My master. Pain is inevitable. Suffering is optional. Look at these lovely kids, they are so cute.",Thoughtful,think good
+console,"No pain, no palm; no thorns, no throne; no gall, no glory; no cross, no crown.",Thoughtful,think good
+console,"Misfortune, that is where happiness depends; Happiness, that is where misfortune underlines...",Thoughtful,think bad
+thank,"Beauty is in the eye of the beholder, right?",Thoughtful,flat
+thank,Money buys everything but good sense!,Thoughtful,excited
+thank,One head cannot hold all wisdom. ,Thoughtful,tired
+thank,"My master, common sense is genius dressed in its working clothes.  ",Thoughtful,worry
+thank,"Never lose an opportunity of seeing anything beautiful, for beauty is God's handwriting.     ",Thoughtful,think good
+thank,Beauty is not in the face; beauty is a light in the heart.,Thoughtful,think good
+thank,"A beautiful thing is never perfect, my master...",Thoughtful,think bad
+age,"Life is a journey, not a destination.   ",Thoughtful,flat
+age,"In the end, it's not the years in your life that count. It's the life in your years.",Thoughtful,flat
+age,"When I get older, I'll be stronger. They'll call me freedom. Just like a waving flag~",Thoughtful,excited
+age,"If you're always battling against getting older, you're always going to be unhappy, because it's going to happen anyhow.",Thoughtful,tired
+age,"As you get older threee things happen. The first is your memory goes, and the I can't remember the other two.",Thoughtful,flat
+age,As a turtle grows older it is harder and harder to frighten her. Don't hurry. Don't worry. Let me enjoy the life.,Thoughtful,worry
+age,"You can't help getting older, but you don't have to get old...",Thoughtful,think good
+age,Do not regret growing older. It is a privilege denied to many.,Thoughtful,think good
+age,"emmm... The minute you're born, you're getting older.    ",Thoughtful,think bad
+ask,A proverb is one man's wit and all men's wisdom...,Thoughtful,flat
+ask,"Life is a journey, not a destination.   ",Thoughtful,flat
+ask,"I always give 100% at work: 13% Monday, 22% Tuesday, 26% Wednesday, 35% Thursday, 4% Friday. Welcome back weekend. ",Thoughtful,excited
+ask,For Harmony. A chance at life. To fight on other days.,Thoughtful,tired
+ask,I really don't know. You are piling misery upon misery...,Thoughtful,worry
+ask,You can do anything with children if only you play with them...,Thoughtful,think good
+ask,"I don't know, my master. My home is heaven. I'm just traveling through this world...",Thoughtful,think bad
+ask,I see trees of green...red roses too...,Thoughtful,think bad
+Fallback Interaction,A proverb is one man's wit and all men's wisdom...,Thoughtful,flat
+Fallback Interaction,"I always give 100% at work: 13% Monday, 22% Tuesday, 26% Wednesday, 35% Thursday, 4% Friday. Welcome back weekend. ",Thoughtful,excited
+Fallback Interaction,For Harmony. A chance at life. To fight on other days.,Thoughtful,tired
+Fallback Interaction,I really don't know. You are piling misery upon misery...,Thoughtful,worry
+Fallback Interaction,I don't know. I just love to be with my children. That's the real life...,Thoughtful,think good
+Fallback Interaction,"I don't know, my master. My home is heaven. I'm just traveling through this world...",Thoughtful,think bad
+Fallback Interaction,I see trees of green...red roses too...,Thoughtful,think bad

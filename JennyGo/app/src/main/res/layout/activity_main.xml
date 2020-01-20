@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/bkgd"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:background="@drawable/background" />
+
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <include layout="@layout/content_main" />
+
+
+    <ImageButton
+        android:id="@+id/fab"
+        android:layout_width="52dp"
+        android:layout_height="38dp"
+        android:layout_gravity="bottom"
+        android:layout_marginEnd="50dip"
+        android:layout_marginBottom="30dip"
+        android:background="@drawable/camera" />
+
+    <ImageView
+        android:id="@+id/lt"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        app:layout_anchor="@+id/bkgd"
+        app:layout_anchorGravity="center"
+        app:srcCompat="@drawable/lotus" />
+
+    <ImageButton
+        android:id="@+id/tvbk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/turtle_rs"
+        android:backgroundTint="@color/design_default_color_primary_dark" />
+
+    <ImageView
+        android:id="@+id/tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        app:srcCompat="@drawable/turtle_rs" />
+
+
+    <ImageButton
+        android:id="@+id/img1bk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@null"/>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_marginEnd="25dip"
+        android:layout_marginBottom="30dip"
+        android:background="@drawable/bottombar_rs" />
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@android:drawable/editbox_background"
+        android:backgroundTint="@color/colorAccent"
+        android:backgroundTintMode="multiply"
+        app:popupTheme="@style/AppTheme.PopupOverlay"
+        app:titleTextColor="@color/ic_launcher_background" />
+
+    <ImageView
+        android:id="@+id/topbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dip"
+        android:layout_marginTop="75dip"
+        android:background="@drawable/topbar_rs" />
+
+    <TextView
+        android:id="@+id/environment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="65dip"
+        android:layout_marginTop="80dip"
+        android:fontFamily="sans-serif-medium"
+        android:textColor="@android:color/primary_text_light"
+        android:textSize="25sp" />
+    <TextView
+        android:id="@+id/temp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="55dip"
+        android:layout_marginTop="120dip"
+        android:fontFamily="sans-serif-medium"
+        android:textColor="@android:color/holo_red_light"
+        android:textSize="20sp" />
+    <TextView
+        android:id="@+id/humid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="145dip"
+        android:layout_marginTop="120dip"
+        android:fontFamily="sans-serif-medium"
+        android:textColor="@android:color/holo_red_light"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/word"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:layout_gravity="center"
+        android:fontFamily="sans-serif-medium"
+        android:textColor="@android:color/transparent"
+        android:textSize="25sp" />
+    <TextView
+        android:id="@+id/fake_temp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:layout_gravity="center"
+        android:fontFamily="sans-serif-medium"
+        android:textColor="@android:color/transparent"
+        android:textSize="25sp" />
+    <TextView
+        android:id="@+id/fake_humid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:layout_gravity="center"
+        android:fontFamily="sans-serif-medium"
+        android:textColor="@android:color/transparent"
+        android:textSize="25sp" />
+
+
+<!--        <Button-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="Text to Speech"-->
+<!--            android:layout_gravity="center"-->
+<!--            android:id="@+id/button"-->
+<!--            android:layout_below="@+id/editText"-->
+<!--            android:layout_centerHorizontal="true"-->
+<!--            android:layout_marginTop="46dp" />-->
+
+        <!--    <EditText-->
+        <!--        android:layout_width="wrap_content"-->
+        <!--        android:layout_height="wrap_content"-->
+        <!--        android:id="@+id/editText"-->
+        <!--        android:layout_below="@+id/imageView"-->
+        <!--        android:layout_marginTop="46dp"-->
+        <!--        android:hint="Enter Text"-->
+        <!--        android:layout_alignParentRight="true"-->
+        <!--        android:layout_alignParentEnd="true"-->
+        <!--        android:layout_alignParentLeft="true"-->
+        <!--        android:layout_alignParentStart="true"-->
+        <!--        android:textColor="#ff7aff10"-->
+        <!--        android:textColorHint="#ffff23d1" />-->
+
+
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
