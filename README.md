@@ -89,8 +89,6 @@ http://icsl.ee.columbia.edu/iot-class/2016fall/group8/
 
 Jiajing Sun
 
-[Jiajing](C:\Users\jjswi\Downloads\project_website\images\pic02.jpg) 
-
 Description: A turtle lover
 
 
