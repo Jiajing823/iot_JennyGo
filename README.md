@@ -93,18 +93,21 @@ http://icsl.ee.columbia.edu/iot-class/2016fall/group8/
 
 
 Jiajing Sun
+
 ![image](https://github.com/hz2538/iot_JennyGo/blob/master/raspberry/pic02.jpg)
 
 Description: A turtle lover
 
 
 Jiayu Wang
+
 ![image](https://github.com/hz2538/iot_JennyGo/blob/master/raspberry/pic11.jpg)
 
 Description: A turtle lover
 
 		
 Huixiang Zhuang
+
 ![image](https://github.com/hz2538/iot_JennyGo/blob/master/raspberry/pic07.jpg)
 
 Description: A turtle lover
