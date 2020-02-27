@@ -47,6 +47,7 @@ We use a deep learning based network called resnet-18 there. We made a transfer 
 For the input, we compress the RGB to grayscale and concatenate 5 frames together as 5 channels of the convolution network to let the model not only learn the spatial frame patterns, but also learn the temperal relationship across the frames. 
 For the output layer, the dimension is 7 because we have 7 output status of turtle to be classified: go, stop, turn around, flip over, under the tree, look at the stone, and play the ball.
 
+![image](https://github.com/hz2538/iot_JennyGo/blob/master/raspberry/pic10.jpg)
 							
 ### Deep neural network for status classification:
 		
@@ -61,9 +62,12 @@ The response would be read out by the text-to-speech module on your phone. All t
 
 ### Results
 
+![image](https://github.com/hz2538/iot_JennyGo/blob/master/raspberry/pic06.jpg)
 Status classification results (accuracy and the confusion matrix)
 
 ### App
+
+![image](https://github.com/hz2538/iot_JennyGo/blob/master/raspberry/pic09.jpg)
 
 ### References
 
@@ -89,17 +93,17 @@ http://icsl.ee.columbia.edu/iot-class/2016fall/group8/
 
 
 Jiajing Sun
-
+![image](https://github.com/hz2538/iot_JennyGo/blob/master/raspberry/pic02.jpg)
 Description: A turtle lover
 
 
 Jiayu Wang
-
+![image](https://github.com/hz2538/iot_JennyGo/blob/master/raspberry/pic11.jpg)
 Description: A turtle lover
 
 		
 Huixiang Zhuang
-
+![image](https://github.com/hz2538/iot_JennyGo/blob/master/raspberry/pic07.jpg)
 Description: A turtle lover
 
 		
