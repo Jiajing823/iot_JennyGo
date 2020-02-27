@@ -88,42 +88,22 @@ http://icsl.ee.columbia.edu/iot-class/2016fall/group8/
 
 					
 
-
-### Our Team
-
-
-Jiajing Sun
-
-![image](https://github.com/hz2538/iot_JennyGo/blob/master/raspberry/pic02.jpg)
-
-Description: A turtle lover
-
-
-Jiayu Wang
-
-![image](https://github.com/hz2538/iot_JennyGo/blob/master/raspberry/pic11.jpg)
-
-Description: A turtle lover
-
-		
-Huixiang Zhuang
-
-![image](https://github.com/hz2538/iot_JennyGo/blob/master/raspberry/pic07.jpg)
-
-Description: A turtle lover
-
-		
-
-### Contact
+### Contact Our Team
 
 Jiajing Sun: js5504@columbia.edu
+
 Jiayu Wang: jw3689@columbia.edu
+
 Huixiang Zhuang: hz2538@columbia.edu
 
 
-Columbia University Department of Electrical Engineering (http://www.ee.columbia.edu)
+
+Columbia University Department of Electrical Engineering 
+http://www.ee.columbia.edu
 
 Class Website:
-[Columbia University EECS E4764 Fall '19 IoT](https://edblogs.columbia.edu/eecs4764-001-2019-3/)
+Columbia University EECS E4764 Fall '19 IoT
+https://edblogs.columbia.edu/eecs4764-001-2019-3/
 
-Instructor: Professsor Xiaofan (Fred) Jiang](http://fredjiang.com/)
+Instructor: Professsor Xiaofan (Fred) Jiang
+http://fredjiang.com/
