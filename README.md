@@ -20,6 +20,7 @@ We also implemented environment monitoring to help with building a more comforta
 
 
 ### System Architecture
+![image](https://github.com/hz2538/iot_JennyGo/blob/master/raspberry/pic01.jpg)
 
 #### Main architecture
 
